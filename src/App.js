@@ -77,7 +77,7 @@ function App() {
 
   useEffect(() => {
     runFacemesh();
-  }, [runFacemesh]);
+  }, []);
 
   return (
     <div className="App">

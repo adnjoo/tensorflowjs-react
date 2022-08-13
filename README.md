@@ -6,8 +6,16 @@ Facial landmark recognition allows you to detect a number of different points on
 ## Usage
 
 ```sh
+# quickstart
 npm install
 npm start
+
+# build and deploy
+npm run build
+yarn serve -s build
+
+# command to pipe dependencies to README.md
+readme package.json > README.md
 ```
 
 ## Tests
@@ -29,8 +37,9 @@ npm test
 - [react-dom](https://ghub.io/react-dom): React package for working with the DOM.
 - [react-scripts](https://ghub.io/react-scripts): Configuration and scripts for Create React App.
 - [react-webcam](https://ghub.io/react-webcam): React webcam component
+- [serve](https://ghub.io/serve): Static file serving and directory listing
 
 ## Dev Dependencies
 
-None
+- [react-app-rewired](https://ghub.io/react-app-rewired): Tweak the create-react-app webpack config(s) without using &#39;eject&#39; and without creating a fork of the react-scripts
 
