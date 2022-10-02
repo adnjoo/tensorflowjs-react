@@ -2,8 +2,11 @@
 
 ![](./scrn.png) 
  
- Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on. From there you&#39;re able to apply overlays aka filters to get your snap! But there&#39;s so much more that it can be used for like emotion analysis and face tracking. youtu.be/7lXYGDVHUNw. github.com/nicknochnack/FacialLandmarkDetection
-
+ Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on. From there you&#39;re able to apply overlays aka filters to get your snap! But there&#39;s so much more that it can be used for like emotion analysis and face tracking. 
+ 
+[youtube](youtu.be/7lXYGDVHUNw). 
+ 
+[github repo I copied from](github.com/nicknochnack/FacialLandmarkDetection)
 
 ## Usage
 
